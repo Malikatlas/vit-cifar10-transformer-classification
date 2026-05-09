@@ -1,0 +1,44 @@
+[
+  {
+    "model_name": "ViT from scratch",
+    "best_validation_accuracy": 0.7638,
+    "test_accuracy": 0.7536,
+    "precision": 0.7530045921206271,
+    "recall": 0.7536,
+    "f1_score": 0.7512613383982664,
+    "total_training_time": 410.56953220046125,
+    "average_epoch_time": 13.685651073348708,
+    "peak_gpu_memory_mb": 498.68701171875,
+    "inference_images_per_second": 788.414669027481,
+    "trainable_parameters": 1212490,
+    "total_parameters": 1212490
+  },
+  {
+    "model_name": "Hybrid CNN + MLP",
+    "best_validation_accuracy": 0.904,
+    "test_accuracy": 0.8992,
+    "precision": 0.9013803349833491,
+    "recall": 0.8992000000000001,
+    "f1_score": 0.8996506833394156,
+    "total_training_time": 315.2950640995987,
+    "average_epoch_time": 13.137294337483278,
+    "peak_gpu_memory_mb": 725.259765625,
+    "inference_images_per_second": 3656.9878509205287,
+    "trainable_parameters": 1160138,
+    "total_parameters": 1160138
+  },
+  {
+    "model_name": "Pretrained ResNet18 transfer learning",
+    "best_validation_accuracy": 0.8658,
+    "test_accuracy": 0.8598,
+    "precision": 0.8599322429608625,
+    "recall": 0.8598000000000001,
+    "f1_score": 0.8595062026358015,
+    "total_training_time": 898.703845300246,
+    "average_epoch_time": 59.91358968668307,
+    "peak_gpu_memory_mb": 1547.7998046875,
+    "inference_images_per_second": 372.41581180034945,
+    "trainable_parameters": 11181642,
+    "total_parameters": 11181642
+  }
+]

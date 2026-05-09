@@ -1,0 +1,152 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 0.8493651859707303,
+    "train_accuracy": 0.7248666666666667,
+    "val_loss": 0.6281233332633972,
+    "val_accuracy": 0.7932,
+    "epoch_time": 74.04912159987725,
+    "learning_rate": 0.001,
+    "peak_gpu_memory_mb": 1498.716796875
+  },
+  {
+    "epoch": 2,
+    "train_loss": 0.6302465240372552,
+    "train_accuracy": 0.7837555555555555,
+    "val_loss": 0.571277309703827,
+    "val_accuracy": 0.8044,
+    "epoch_time": 58.12355490005575,
+    "learning_rate": 0.001,
+    "peak_gpu_memory_mb": 506.2607421875
+  },
+  {
+    "epoch": 3,
+    "train_loss": 0.5940805727905697,
+    "train_accuracy": 0.7935777777777778,
+    "val_loss": 0.5607915557861328,
+    "val_accuracy": 0.8118,
+    "epoch_time": 58.43208630010486,
+    "learning_rate": 0.001,
+    "peak_gpu_memory_mb": 506.2607421875
+  },
+  {
+    "epoch": 4,
+    "train_loss": 0.5787452251222398,
+    "train_accuracy": 0.7994888888888889,
+    "val_loss": 0.56562452917099,
+    "val_accuracy": 0.809,
+    "epoch_time": 58.79984220000915,
+    "learning_rate": 0.001,
+    "peak_gpu_memory_mb": 506.2607421875
+  },
+  {
+    "epoch": 5,
+    "train_loss": 0.5736027118894789,
+    "train_accuracy": 0.7996,
+    "val_loss": 0.5525958292961121,
+    "val_accuracy": 0.811,
+    "epoch_time": 58.50096470001154,
+    "learning_rate": 0.001,
+    "peak_gpu_memory_mb": 506.2607421875
+  },
+  {
+    "epoch": 6,
+    "train_loss": 0.5707297402699788,
+    "train_accuracy": 0.8030888888888889,
+    "val_loss": 0.5666270774364471,
+    "val_accuracy": 0.8026,
+    "epoch_time": 59.61238990002312,
+    "learning_rate": 0.001,
+    "peak_gpu_memory_mb": 506.2607421875
+  },
+  {
+    "epoch": 7,
+    "train_loss": 0.5635893662346734,
+    "train_accuracy": 0.8049777777777778,
+    "val_loss": 0.5400837423801422,
+    "val_accuracy": 0.8168,
+    "epoch_time": 60.12566659995355,
+    "learning_rate": 0.001,
+    "peak_gpu_memory_mb": 506.2607421875
+  },
+  {
+    "epoch": 8,
+    "train_loss": 0.5594389489703708,
+    "train_accuracy": 0.8054666666666667,
+    "val_loss": 0.5578375796794891,
+    "val_accuracy": 0.8056,
+    "epoch_time": 58.97488119988702,
+    "learning_rate": 0.001,
+    "peak_gpu_memory_mb": 506.2607421875
+  },
+  {
+    "epoch": 9,
+    "train_loss": 0.5563466239770254,
+    "train_accuracy": 0.8075333333333333,
+    "val_loss": 0.5348681264400482,
+    "val_accuracy": 0.8216,
+    "epoch_time": 58.05227980017662,
+    "learning_rate": 0.001,
+    "peak_gpu_memory_mb": 506.2607421875
+  },
+  {
+    "epoch": 10,
+    "train_loss": 0.5529475939008924,
+    "train_accuracy": 0.8075111111111111,
+    "val_loss": 0.5470008390426636,
+    "val_accuracy": 0.809,
+    "epoch_time": 58.6710141999647,
+    "learning_rate": 0.001,
+    "peak_gpu_memory_mb": 506.2607421875
+  },
+  {
+    "epoch": 11,
+    "train_loss": 0.49754304085042744,
+    "train_accuracy": 0.8276444444444444,
+    "val_loss": 0.46728771777153016,
+    "val_accuracy": 0.8394,
+    "epoch_time": 59.224966699955985,
+    "learning_rate": 0.0001,
+    "peak_gpu_memory_mb": 1547.7998046875
+  },
+  {
+    "epoch": 12,
+    "train_loss": 0.4389182455115848,
+    "train_accuracy": 0.8481111111111111,
+    "val_loss": 0.43498092522621157,
+    "val_accuracy": 0.8532,
+    "epoch_time": 58.97263710014522,
+    "learning_rate": 0.0001,
+    "peak_gpu_memory_mb": 538.30029296875
+  },
+  {
+    "epoch": 13,
+    "train_loss": 0.4032946968873342,
+    "train_accuracy": 0.8602444444444445,
+    "val_loss": 0.41335749583244324,
+    "val_accuracy": 0.8578,
+    "epoch_time": 59.63345970003866,
+    "learning_rate": 0.0001,
+    "peak_gpu_memory_mb": 538.30029296875
+  },
+  {
+    "epoch": 14,
+    "train_loss": 0.3762012959692213,
+    "train_accuracy": 0.8695777777777778,
+    "val_loss": 0.39305152349472045,
+    "val_accuracy": 0.8656,
+    "epoch_time": 59.18199700000696,
+    "learning_rate": 0.0001,
+    "peak_gpu_memory_mb": 538.30029296875
+  },
+  {
+    "epoch": 15,
+    "train_loss": 0.3604019552760654,
+    "train_accuracy": 0.8735333333333334,
+    "val_loss": 0.3844191316127777,
+    "val_accuracy": 0.8658,
+    "epoch_time": 58.34898340003565,
+    "learning_rate": 0.0001,
+    "peak_gpu_memory_mb": 538.30029296875
+  }
+]
